@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge%22"/>
 
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
