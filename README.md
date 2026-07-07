@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🌠 About Me
+# About Me
 
 <!--
 Write your own intro here.
