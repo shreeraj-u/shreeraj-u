@@ -2,7 +2,7 @@
 
 # About Me
 
--Im currently serving national service in the singapore armed forces, and I am looking to study in NUS (National University of Singapore) or NTU (Nanyang Technological University) in 2027                   
+-Im currently serving national service in the singapore armed forces, and I am looking to study computer science or engineering in NUS (National University of Singapore) or NTU (Nanyang Technological University) in 2027                   
 <br/>
 -I enjoy building full-stack applications, exploring cybersecurity and keeping up with the latest AI technologies and tools, to turn ideas into useful projects through code.
 
